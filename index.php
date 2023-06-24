@@ -7,7 +7,7 @@ class class1{
     }
     function fun1()
     {
-        return $this->x;
+        return $this-x;
         // echo "fun1";
     }
     function __destruct()
